@@ -1,0 +1,25 @@
+{
+  "name": "task-service",
+  "version": "1.0.0",
+  "description": "REST endpoint for Tasks",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justin-coveros/node-ms-part-one.git"
+  },
+  "author": "Justin Hollingsworth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justin-coveros/node-ms-part-one/issues"
+  },
+  "homepage": "https://github.com/justin-coveros/node-ms-part-one#readme",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-better-router": "^2.1.1",
+    "koa-body": "^4.1.0"
+  }
+}

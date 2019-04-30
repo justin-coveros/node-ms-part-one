@@ -1,1 +1,1 @@
-Reference code for the blog: [link to post]
+Reference code for the blog: [https://www.coveros.com/node-js-microservice-part-one/]
